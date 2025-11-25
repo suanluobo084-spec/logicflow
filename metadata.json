@@ -1,0 +1,5 @@
+{
+  "name": "LogicFlow - Academic Text Analyzer",
+  "description": "An intelligent tool to analyze and improve the logical structure of scientific abstracts and technical writing using Gemini 2.5.",
+  "requestFramePermissions": []
+}
